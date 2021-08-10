@@ -7,7 +7,8 @@
 * [API](docs/api/README.md)
   * [ChangeLog](docs/api/changelog/README.md)
     * [FAQ](docs/api/changelog/faq.md)
-    * [test](docs/api/changelog/test.md)
+    * [test](docs/api/changelog/test/README.md)
+      * [Untitled](docs/api/changelog/test/untitled.md)
 
 ## policy
 
